@@ -1,0 +1,62 @@
+﻿<Page x:Class="Carting.PastRaceResults"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Carting"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="PastRaceResults">
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="35"/>
+            <RowDefinition Height="37.667"/>
+            <RowDefinition Height="36.333"/>
+            <RowDefinition/>
+            <RowDefinition Height="34"/>
+            <RowDefinition Height="25"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="25*"/>
+            <ColumnDefinition Width="45*"/>
+            <ColumnDefinition Width="210"/>
+            <ColumnDefinition Width="117"/>
+            <ColumnDefinition Width="100.333"/>
+            <ColumnDefinition Width="40.667"/>
+            <ColumnDefinition Width="43.173"/>
+            <ColumnDefinition Width="141.712"/>
+            <ColumnDefinition Width="52*"/>
+            <ColumnDefinition Width="25*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock TextWrapping="Wrap" FontSize="22" TextAlignment="Center" Grid.ColumnSpan="5" Grid.Column="2" Grid.Row="1" Text="Результат предыдущих гонок" Margin="167,0,30,0" FontFamily="Arial"/>
+
+        <DataGrid x:Name="gridResult" Grid.Column="1" Margin="43,37,49,0" Width="1000" Grid.Row="4" Grid.ColumnSpan="8" Grid.RowSpan="2" FontFamily="Arial" HorizontalAlignment="Center" VerticalAlignment="Stretch" LoadingRow="gridResult_LoadingRow" CanUserDeleteRows="False" CanUserAddRows="False" CanUserReorderColumns="False" CanUserSortColumns="False" CanUserResizeRows="False" CanUserResizeColumns="False" EnableRowVirtualization="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn x:Name="pos" Width="30" />
+                <DataGridTextColumn Width="100"/>
+                <DataGridTextColumn Width="150"/>
+                <DataGridTextColumn Width="100"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <TextBlock TextWrapping="Wrap" FontSize="16" Foreground="Black" TextAlignment="Center" Grid.Column="2" Grid.Row="4" Text="Всего пилотов:" Margin="0,3,81,200" FontWeight="Bold" FontFamily="Arial"/>
+        <TextBlock Name="txtRacerAllCount" Grid.Column="2" HorizontalAlignment="Left" Margin="127.4,4.8,0,0" Grid.Row="4" TextWrapping="Wrap" Text="1234" VerticalAlignment="Top" Width="51" FontSize="14" Height="19" FontFamily="Arial"/>
+        <TextBlock TextWrapping="Wrap" FontSize="16" Foreground="Black" TextAlignment="Center" Grid.Column="2" Grid.Row="4" Text="Всего пилотов финишировало:" Margin="183.4,3.8,19.4,198.2" FontWeight="Bold" Grid.ColumnSpan="4" FontFamily="Arial"/>
+        <TextBlock Name="txtRacerFinishCount" Grid.Column="5" HorizontalAlignment="Left" Margin="18.4,5.8,0,0" Grid.Row="4" TextWrapping="Wrap" Text="1234" VerticalAlignment="Top" Width="43" FontSize="14" Grid.ColumnSpan="2" Height="19" FontFamily="Arial"/>
+        <TextBlock TextWrapping="Wrap" FontSize="16" Foreground="Black" TextAlignment="Center" Grid.Column="6" Grid.Row="4" Text="Средне время:" Margin="18.6,4.8,44.2,197.2" FontWeight="Bold" Grid.ColumnSpan="2" FontFamily="Arial"/>
+        <TextBlock Name="txtTime" Grid.Column="7" HorizontalAlignment="Left" Margin="102.4,6.8,0,0" Grid.Row="4" TextWrapping="Wrap" Text="4h 02m 10s" VerticalAlignment="Top" Width="87" FontSize="14" Grid.ColumnSpan="2" Height="19" FontFamily="Arial"/>
+        <TextBlock Grid.Column="2" HorizontalAlignment="Left" Margin="5,11,0,0" Grid.Row="2" TextWrapping="Wrap" Text="Событие:" VerticalAlignment="Top" FontSize="14" Height="19" Width="67" FontFamily="Arial"/>
+        <ComboBox Name="cmbEvent" BorderBrush="Black" BorderThickness="1" Grid.Column="2" HorizontalAlignment="Left" Margin="75.4,10.4,0,0" Grid.Row="2" VerticalAlignment="Top" Width="125" Height="22" FontFamily="Arial" SelectedIndex="1" />
+        <TextBlock Grid.Column="2" HorizontalAlignment="Left" Margin="0,11,0,0" Grid.Row="3" TextWrapping="Wrap" Text="Тип гонки:" VerticalAlignment="Top" FontSize="14" Width="72" Height="25" FontFamily="Arial" />
+        <ComboBox Name="cmbTrackTye" BorderBrush="Black" BorderThickness="1" Grid.Column="2"
+HorizontalAlignment="Left" Margin="75,10,0,0" Grid.Row="3" VerticalAlignment="Top" Width="125" Height="22" SelectedIndex="1"/>
+        <TextBlock Grid.Column="4" HorizontalAlignment="Left" Margin="50,11,0,0" Grid.Row="2" TextWrapping="Wrap" Text="Пол:" VerticalAlignment="Top" FontSize="14" Height="19" Width="33" FontFamily="Arial"/>
+        <ComboBox Name="cmbGender" BorderBrush="Black" BorderThickness="1" Grid.Column="4" HorizontalAlignment="Left" Margin="94,10,0,0" Grid.Row="2" VerticalAlignment="Top" Width="124" Height="22" Grid.ColumnSpan="4" FontFamily="Arial" SelectedIndex="1"/>
+        <TextBlock Grid.Column="4"
+HorizontalAlignment="Left" Margin="10,10,0,0" Grid.Row="3" TextWrapping="Wrap" Text="Категория:" VerticalAlignment="Top" FontSize="14" Height="19" Width="73" FontFamily="Arial"/>
+        <ComboBox Name="cmbAge" BorderBrush="Black" BorderThickness="1" Grid.Column="4" HorizontalAlignment="Left" Margin="94,10,0,0" Grid.Row="3" VerticalAlignment="Top" Width="124" Height="22" Grid.ColumnSpan="4" SelectedIndex="1"/>
+        <Button x:Name="btnSearch" Content="Поиск" Background="LightGray" FontFamily="Arial" FontSize="14" HorizontalAlignment="Right" Width="78" Height="24" VerticalAlignment="Bottom" Grid.Column="7" Grid.Row="3" Margin="0,0,0,4" Click="btnSearch_Click" BorderBrush="Black" BorderThickness="1" />
+    </Grid>
+</Page>

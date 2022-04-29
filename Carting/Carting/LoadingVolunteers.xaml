@@ -1,0 +1,27 @@
+﻿<Page x:Class="Carting.LoadingVolunteers"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Carting"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="LoadingVolunteers">
+
+    <Grid>
+        <Label Content="Загрузка волонтерами" HorizontalAlignment="Center" Height="36" Margin="0,15,0,0" VerticalAlignment="Top" Width="240" FontFamily="Arial" FontSize="22"/>
+        <StackPanel>
+            <WrapPanel HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0 70 0 0">
+                <Label Content="CSV файл волонтеров:" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Top" Width="185" FontFamily="Arial" FontSize="16"/>
+                <TextBox x:Name="FileNameTB" Width="170" IsReadOnly="True" BorderBrush="Black" BorderThickness="1" FontFamily="Arial" />
+                <Button BorderBrush="Black" BorderThickness="1" Background="LightGray" Height="25" Width="100" Content="Просмотр" Margin="10 0 0 0"  FontFamily="Arial"/>
+            </WrapPanel>
+            <WrapPanel HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0 30 0 0">
+                <Button Click="btnLoading_Click" Content="Загрузка" Name="btnLoading" HorizontalAlignment="Center" Margin="0,0,0,30" VerticalAlignment="top" FontFamily="Arial" Background="LightGray" Height="22" BorderBrush="Black" BorderThickness="1" FontSize="16" Width="160"/>
+                <Button Click="btnRefresh_Click_1" Content="Отмена" Name="btnRefresh" HorizontalAlignment="Center" Margin="10,0,0,30" VerticalAlignment="Bottom" FontFamily="Arial" Background="LightGray" Height="22" BorderBrush="Black" BorderThickness="1" FontSize="16" Width="120"/>
+            </WrapPanel>
+            <Label Content="CSV файл должен иметь следущие поля:" HorizontalAlignment="Center" Margin="0,0,0,0" VerticalAlignment="Top" Width="320" FontFamily="Arial" FontSize="16"/>
+            <Label Content="поле1: описание поля&#xD;&#xA;поле2: описание поля&#xD;&#xA;поле3: описание поля&#xD;&#xA;поле4: описание поля&#xD;&#xA;поле5: описание поля&#xD;&#xA;поле6: описание поля&#xD;&#xA;" HorizontalAlignment="Center" Margin="0,30,0,0" VerticalAlignment="Stretch" HorizontalContentAlignment="Center"  FontFamily="Arial" FontSize="16"/>
+        </StackPanel>
+    </Grid>
+</Page>

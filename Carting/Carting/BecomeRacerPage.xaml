@@ -1,0 +1,22 @@
+﻿<Page x:Class="Carting.BecomeRacerPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Carting"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="BecomeRacerPage">
+
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Label Content="Учавствовали ранее?" HorizontalContentAlignment="Center" FontSize="24" FontFamily="Arial" />
+           
+            <WrapPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,15,0,0">
+                <Button Content="Да" FontFamily="Arial" Click="Authorize_Click" FontSize="20" Width="127" Height="43" Background="LightGray" BorderThickness="1" BorderBrush="Black" Margin="0,0,80,0"/>
+                
+                <Button Content="Нет" Click="RunnerRegistration_Click" FontFamily="Arial" FontSize="20" Width="127" Height="43" Background="LightGray" BorderThickness="1" BorderBrush="Black"/>
+            </WrapPanel>
+        </StackPanel>
+    </Grid>
+</Page>

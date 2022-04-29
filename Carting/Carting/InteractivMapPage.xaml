@@ -1,0 +1,48 @@
+﻿<Page x:Class="Carting.InteractivMap"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Carting"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="InteractivMap">
+
+    <Grid>
+
+        <TextBlock FontFamily="Arial" HorizontalAlignment="Center" VerticalAlignment="Top" TextWrapping="Wrap" FontSize="22" Foreground="Black" TextAlignment="Center" Margin="0,10,0,0" Width="325"><Run Text="Информация о "/><Run Text="Kart Skills 2017"/></TextBlock>
+
+
+        <WrapPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="10,40,0,0">
+            <Button x:Name="BtnMap" HorizontalAlignment="Center" Width="120" Height="107" VerticalAlignment="Center" Margin="40,0,0,220" Click="BtnMap_Click">
+                <Image Source="C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\Images\kart-skill-2017-map-1.png" Height="103" Width="121"/>
+            </Button>
+            <StackPanel VerticalAlignment="Stretch" Width="585" Height="390" Margin="10,20,0,0">
+                <TextBlock x:Name="txtCheckpoint" HorizontalAlignment="Center" Text="О Kart Skills 2017" VerticalAlignment="Top" FontSize="18" FontFamily="Arial" Width="152" Height="24" Margin="222,0,211.333,0" />
+                <TextBlock FontFamily="Arial" HorizontalAlignment="Right" TextWrapping="Wrap"  VerticalAlignment="Top" FontSize="14" Height="319" Width="561">
+           
+                Kart Skills - гоночный фестиваль, проводимый каждый год в разных частях мира. Может быть три зачета: 2.5 километра, 4 километра и 6.5 километров
+                <LineBreak/>
+                В прошлых годах гоночный фестиваль был проведен в Рио-де-Жанейро, Бразилия (2014); Лейпциг, Германия (2013); Каир, Египет (2012) и Париж, Франция (2011).
+                <LineBreak/>
+                В этом году, Kart Skills очень зрелищен, продет в  Москве, Россия, он должен быть самым большим гоночным фестивалем. Это столица России и самый большой город. Гонщики будут проезжать мимо стен Кремля, великолепных архитектур.
+                <LineBreak/>
+                Этот фестиваль привлек рекордное количество гонщиков со всего мира.  особое внимание будет обращено на участников из Германии и Канады (Немец закончил гонку за 20 минут 4 секунды).
+                <LineBreak/>
+                Атмосфера праздника обещает развлечения для всех зрителей.
+                <LineBreak/>
+                События:
+                <LineBreak/>
+                - Программа "4 километра" начнется у Московской Государственная Думы  в 6 утра.
+                <LineBreak/>
+                - Программа "6 километров" начнется в 7 утра у стен Кремля.
+                <LineBreak/>
+                - Программа "2.5 километра"  начнется в 15 часов рядом с Центральным парком культуры и отдыха имени Горького.
+                <LineBreak/>
+                Спасибо всем волонтерам, которые будут помогать нам проводить фестиваль!
+                <LineBreak/>
+                </TextBlock>
+            </StackPanel>
+        </WrapPanel>
+    </Grid>
+</Page>

@@ -1,0 +1,52 @@
+﻿<Page x:Class="Carting.RacerControl"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Carting"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="RacerControl">
+    <Grid>
+        <TextBlock TextWrapping="Wrap" FontSize="22" TextAlignment="Center" HorizontalAlignment="Center" VerticalAlignment="Stretch" Text="Управление гонщиками" Margin="0 40 0 0" FontFamily="Arial"/>
+        <Grid Margin="0,90,0,0" HorizontalAlignment="Center" VerticalAlignment="Top" Width="398" Height="120" >
+            <StackPanel HorizontalAlignment="Left">
+                <TextBlock HorizontalAlignment="Center" Text="Сортировка и фильтрация:" VerticalAlignment="Top" FontSize="18" Width="230" FontFamily="Arial"/>
+                <WrapPanel Margin="0 10 0 0">
+                    <StackPanel>
+                        <TextBlock HorizontalAlignment="Right" Text="Статус:" VerticalAlignment="Center" FontSize="14" Height="20" FontFamily="Arial"/>
+                        <TextBlock Margin="0 16 0 0" HorizontalAlignment="Right" Text="Вид гонки:" VerticalAlignment="Top" FontSize="14" Height="20" FontFamily="Arial" Grid.RowSpan="2" />
+                        <TextBlock Margin="0 12 0 0" HorizontalAlignment="Right" Text="Отсортировать:" VerticalAlignment="Top" FontSize="14" Height="20" FontFamily="Arial" Grid.RowSpan="2"/>
+                    </StackPanel>
+                    <StackPanel>
+                        <ComboBox Margin="10 0 0 0" Name="cmbStatus" BorderBrush="Black" BorderThickness="1" Grid.Column="2" HorizontalAlignment="Left" Grid.Row="1" VerticalAlignment="Top" Width="164" Height="23" FontFamily="Arial"/>
+                        <ComboBox Margin="10 10 0 0" Name="cmbDistance" BorderBrush="Black" BorderThickness="1" Grid.Column="2" HorizontalAlignment="Left" Grid.Row="2" VerticalAlignment="Top" Width="164" Height="23" Grid.ColumnSpan="2" FontFamily="Arial"/>
+                        <ComboBox Margin="10 10 0 0" Name="cmbSort" BorderBrush="Black" BorderThickness="1" Grid.Column="2" HorizontalAlignment="Left" Grid.Row="3" VerticalAlignment="Top" Width="164" Height="24" Grid.ColumnSpan="2" Grid.RowSpan="2" FontFamily="Arial"/>
+                    </StackPanel>
+                </WrapPanel>
+            </StackPanel>
+            <Button x:Name="btnRefr" Content="Обновить" Background="LightGray" FontFamily="Arial" FontSize="14" HorizontalAlignment="Right" Width="103" Height="26" VerticalAlignment="Bottom" Grid.Column="3" Grid.Row="3" BorderBrush="Black" BorderThickness="1" Grid.ColumnSpan="2" Grid.RowSpan="2" Click="btnRefr_Click" />
+        </Grid>
+        <Grid VerticalAlignment="Stretch" HorizontalAlignment="Center" Margin="0 220 0 0">
+            <WrapPanel HorizontalAlignment="Center">
+                <TextBlock FontSize="16" Foreground="Black" VerticalAlignment="Center" HorizontalAlignment="Right" Text="Количество пилотов:" FontWeight="Bold" FontFamily="Arial" />
+                <TextBlock Name="txtRacerAllCount" HorizontalAlignment="Left" Text="123" VerticalAlignment="Top" Width="51" FontSize="16" FontFamily="Arial" />
+            </WrapPanel>
+            <DataGrid x:Name="gridResult" Grid.Column="1" Margin="20 20 20 5" Grid.Row="4" Grid.ColumnSpan="8" Grid.RowSpan="2" AutoGenerateColumns="False" FontFamily="Arial" HorizontalAlignment="Center" VerticalAlignment="Stretch" CanUserDeleteRows="False" CanUserAddRows="False" CanUserReorderColumns="False" CanUserSortColumns="False" CanUserResizeRows="False" CanUserResizeColumns="False">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="Имя" Width="1*" Binding="{Binding Path=Имя}"/>
+                    <DataGridTextColumn Header="Фамилия" Width="1*" Binding="{Binding Path=Фамилия}"/>
+                    <DataGridTextColumn Header="Email" Width="1*" Binding="{Binding Path=Email}"/>
+                    <DataGridTextColumn Header="Статус" Width="1*" Binding="{Binding Path=Статус}"/>
+                    <DataGridTemplateColumn Header="Edit" Width="0.2*">
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button Width="50" Height="30" Content="Edit" Click="Button_Click"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+    </Grid>
+</Page>
