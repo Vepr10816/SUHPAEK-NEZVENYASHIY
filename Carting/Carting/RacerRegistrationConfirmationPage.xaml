@@ -1,0 +1,18 @@
+﻿<Page x:Class="Carting.RacerRegistrationConfirmationPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Carting"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="RacerRegistrationConfirmationPage">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0 0 0 200">
+        <Label Content="Спасибо за вашу регистрацию в качестве гонщика!" FontSize="20" FontFamily="Arial" HorizontalAlignment="Center" Margin="0 0 0 15" />
+        <Label FontSize="20" Content="С вами свяжутся по поводу оплаты.&#xD;&#xA;"
+HorizontalAlignment="Center" FontFamily="Arial" FontWeight="Light"/>
+        <Button Content="ОК" FontFamily="Arial" Width="70" Height="25" Margin="0 15 0 0" Click="BackButton_Click" Background="LightGray" BorderBrush="Black" BorderThickness="1"/>
+    </StackPanel>
+    </Grid>
+</Page>

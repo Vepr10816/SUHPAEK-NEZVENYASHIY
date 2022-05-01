@@ -1,0 +1,231 @@
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\Carting.csprojAssemblyReference.cache
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\MainWindow.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\App.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\Carting_MarkupCompile.cache
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\Carting_MarkupCompile.lref
+C:\Users\Михаил\source\repos\Carting\Carting\bin\Debug\Carting.exe.config
+C:\Users\Михаил\source\repos\Carting\Carting\bin\Debug\Carting.exe
+C:\Users\Михаил\source\repos\Carting\Carting\bin\Debug\Carting.pdb
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\MainWindow.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\Carting.g.resources
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\Carting.Properties.Resources.resources
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\Carting.csproj.GenerateResource.cache
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\Carting.csproj.CoreCompileInputs.cache
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\Carting.exe
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\Carting.pdb
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\App.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\MainMenuPage.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\ContactInfoWindow.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\MainMenuPage.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\ContactInfoWindow.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\AdministrationMenuPage.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\AuthorizationPage.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\BecomeRacerPage.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\CharityListPage.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\CoordinatorMenuPage.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\EventInfoMenuPage.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\EventRegisterPage.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\RacerMenuPage.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\RacerRegistrationConfirmationPage.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\RacerRegistrationPage.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\RacerSponsorPage.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\SponsorshipConfirmationPage.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\AdministrationMenuPage.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\AuthorizationPage.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\BecomeRacerPage.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\CharityListPage.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\CoordinatorMenuPage.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\EventInfoMenuPage.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\EventRegisterPage.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\RacerMenuPage.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\RacerRegistrationConfirmationPage.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\RacerRegistrationPage.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\RacerSponsorPage.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\SponsorshipConfirmationPage.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\InteractivMapPage.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\MySponsor.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\RacerControl.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\RacerDataChangePage.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\Sponsor_RacerDataChangePage.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\InteractivMapPage.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\MySponsor.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\RacerControl.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\RacerDataChangePage.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\Sponsor_RacerDataChangePage.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\AddEditCharity.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\AddNewUser.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\CharityManagment.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\EditUsers.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\Inventory.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\InventoryReceipt.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\LoadingVolunteers.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\MyResults.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\PastRaceResults.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\PrintReport.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\RiderControl.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\TrackMap.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\UsersManagment.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\ViewSponsors.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\VoluenreersManagment.g.cs
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\AddEditCharity.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\AddNewUser.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\CharityManagment.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\EditUsers.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\Inventory.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\InventoryReceipt.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\LoadingVolunteers.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\MyResults.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\PastRaceResults.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\PrintReport.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\RiderControl.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\TrackMap.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\UsersManagment.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\ViewSponsors.baml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\VoluenreersManagment.baml
+C:\Users\Михаил\source\repos\Carting\Carting\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Михаил\source\repos\Carting\Carting\bin\Debug\Google.Protobuf.dll
+C:\Users\Михаил\source\repos\Carting\Carting\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Михаил\source\repos\Carting\Carting\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Михаил\source\repos\Carting\Carting\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Михаил\source\repos\Carting\Carting\bin\Debug\MySql.Data.dll
+C:\Users\Михаил\source\repos\Carting\Carting\bin\Debug\System.Buffers.dll
+C:\Users\Михаил\source\repos\Carting\Carting\bin\Debug\System.Memory.dll
+C:\Users\Михаил\source\repos\Carting\Carting\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Михаил\source\repos\Carting\Carting\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Михаил\source\repos\Carting\Carting\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Михаил\source\repos\Carting\Carting\bin\Debug\ZstdNet.dll
+C:\Users\Михаил\source\repos\Carting\Carting\bin\Debug\Google.Protobuf.pdb
+C:\Users\Михаил\source\repos\Carting\Carting\bin\Debug\Google.Protobuf.xml
+C:\Users\Михаил\source\repos\Carting\Carting\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Михаил\source\repos\Carting\Carting\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Михаил\source\repos\Carting\Carting\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Михаил\source\repos\Carting\Carting\bin\Debug\MySql.Data.xml
+C:\Users\Михаил\source\repos\Carting\Carting\bin\Debug\System.Buffers.xml
+C:\Users\Михаил\source\repos\Carting\Carting\bin\Debug\System.Memory.xml
+C:\Users\Михаил\source\repos\Carting\Carting\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Михаил\source\repos\Carting\Carting\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Михаил\source\repos\Carting\Carting\obj\Debug\Carting.csproj.CopyComplete
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\Carting.csprojAssemblyReference.cache
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\AddEditCharity.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\AddNewUser.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\AdministrationMenuPage.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\AuthorizationPage.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\BecomeRacerPage.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\CharityListPage.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\CharityManagment.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\ContactInfoWindow.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\CoordinatorMenuPage.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\EditUsers.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\EventInfoMenuPage.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\EventRegisterPage.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\InteractivMapPage.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\Inventory.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\InventoryReceipt.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\LoadingVolunteers.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\MainMenuPage.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\MainWindow.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\MyResults.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\MySponsor.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\PastRaceResults.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\PrintReport.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\RacerControl.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\RacerDataChangePage.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\RacerMenuPage.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\RacerRegistrationConfirmationPage.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\RacerRegistrationPage.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\RacerSponsorPage.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\RiderControl.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\SponsorshipConfirmationPage.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\Sponsor_RacerDataChangePage.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\TrackMap.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\UsersManagment.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\ViewSponsors.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\VoluenreersManagment.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\App.g.cs
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\Carting_MarkupCompile.cache
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\Carting_MarkupCompile.lref
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\Carting.exe
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\Carting.pdb
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\Carting.exe.config
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\Carting.exe
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\Carting.pdb
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\Google.Protobuf.dll
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\MySql.Data.dll
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\System.Buffers.dll
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\System.Memory.dll
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\ZstdNet.dll
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\Google.Protobuf.pdb
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\Google.Protobuf.xml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\MySql.Data.xml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\System.Buffers.xml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\System.Memory.xml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\App.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\AddEditCharity.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\AddNewUser.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\AdministrationMenuPage.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\AuthorizationPage.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\BecomeRacerPage.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\CharityListPage.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\CharityManagment.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\ContactInfoWindow.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\CoordinatorMenuPage.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\EditUsers.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\EventInfoMenuPage.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\EventRegisterPage.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\InteractivMapPage.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\Inventory.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\InventoryReceipt.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\LoadingVolunteers.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\MainMenuPage.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\MainWindow.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\MyResults.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\MySponsor.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\PastRaceResults.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\PrintReport.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\RacerControl.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\RacerDataChangePage.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\RacerMenuPage.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\RacerRegistrationConfirmationPage.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\RacerRegistrationPage.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\RacerSponsorPage.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\RiderControl.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\SponsorshipConfirmationPage.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\Sponsor_RacerDataChangePage.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\TrackMap.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\UsersManagment.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\ViewSponsors.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\VoluenreersManagment.baml
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\Carting.g.resources
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\Carting.Properties.Resources.resources
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\Carting.csproj.GenerateResource.cache
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\Carting.csproj.CoreCompileInputs.cache
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\obj\Debug\Carting.csproj.CopyComplete
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\kruto\OneDrive\Desktop\ПРАКТИКА 3 Курс №2\Carting\Carting\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll

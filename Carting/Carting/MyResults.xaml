@@ -1,0 +1,30 @@
+﻿<Page x:Class="Carting.MyResults"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Carting"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="MyResults">
+
+    <Grid>
+        <Label Content="Мои результаты" Height="47"  VerticalAlignment="Top" Width="200" FontFamily="Arial" FontSize="25" HorizontalAlignment="Center" Margin="300,21,300,0" />
+        <WrapPanel  HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,75,0,0" >
+            <Label Content="Пол:" HorizontalAlignment="Center" Height="26"  VerticalAlignment="Top" Width="44" FontSize="14" FontFamily="Arial"/>
+            <Label Content="Женский" Name="Gender" HorizontalAlignment="Center" Height="26"  VerticalAlignment="Top" Width="91" FontSize="14" FontFamily="Arial"/>
+            <Label Content="Возрастная категория:" HorizontalAlignment="Center" Height="26"  VerticalAlignment="Top" Width="154" FontSize="14" FontFamily="Arial"/>
+            <Label Content="---" Name="AgeCategory" HorizontalAlignment="Center" Height="26"  VerticalAlignment="Top" Width="58" FontSize="14" FontFamily="Arial"/>
+        </WrapPanel>
+        <DataGrid x:Name="gridMyResult" Margin="20,120,20,60" AutoGenerateColumns="False" FontFamily="Arial" HorizontalAlignment="Center" VerticalAlignment="Stretch"  Background="Transparent" BorderBrush="Transparent" HeadersVisibility="All" >
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Событие" Width="1*" Binding="{Binding First}"/>
+                <DataGridTextColumn Header="Вид гонки"  Width="1*" Binding="{Binding Second}"/>
+                <DataGridTextColumn Header="Время"  Width="0.6*" Binding="{Binding Thrid}"/>
+                <DataGridTextColumn Header="Общее место"  Width="0.7*" Binding="{Binding Fourth}"/>
+                <DataGridTextColumn Header="Место по категории"  Width="0.7*" Binding="{Binding Fifth}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Click="ShowAllResults_Click" Content="Посмотреть все результаты" Background="LightGray" FontFamily="Arial" FontSize="14" BorderBrush="Black" BorderThickness="1" Name="ShowAllResults" HorizontalAlignment="Center" Height="23" Margin="0,0,0,20" VerticalAlignment="Bottom" Width="272" />
+    </Grid>
+</Page>

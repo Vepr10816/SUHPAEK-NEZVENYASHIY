@@ -1,0 +1,74 @@
+﻿<Page x:Class="Carting.RacerSponsorPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Carting"
+      xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="RacerSponsorPage">
+
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Label Content="Спонсор гонщика" HorizontalAlignment="Center" FontSize="24" FontFamily="Arial" />
+            <StackPanel Orientation="Horizontal" Margin="0 5 0 0">
+                <StackPanel>
+                    <StackPanel.Resources>
+                        <Style TargetType="TextBox">
+                            <Setter Property="Height" Value="25"/>
+                            <Setter Property="Width" Value="200"/>
+                            <Setter Property="FontSize" Value="14"/>
+                        </Style>
+                    </StackPanel.Resources>
+                    <Label Content="Информация о спонсоре" FontSize="18" HorizontalAlignment="Center" FontFamily="Arial"/>
+                    <StackPanel Orientation="Horizontal" Margin="0 10 0 0" HorizontalAlignment="Right">
+                        <Label Content="Ваше имя: " FontFamily="Arial" />
+                        <TextBox PreviewTextInput="tb1_PreviewTextInput" DataObject.Pasting="tb1_Pasting" MaxLength="15" x:Name="SponsorNameTB" BorderBrush="Black" BorderThickness="1" FontFamily="Arial"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="0 10 0 0" HorizontalAlignment="Right">
+                        <Label Content="Гонщик: " FontFamily="Arial"/>
+                        <ComboBox x:Name="RunnersCB" Width="200" BorderBrush="Black" BorderThickness="1" SelectionChanged="RunnersCB_SelectionChanged" FontFamily="Arial"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="0 10 0 0" HorizontalAlignment="Right">
+                        <Label Content="Влад-ц карты: " ToolTip="Владелец карты" FontFamily="Arial"/>
+                        <TextBox PreviewTextInput="tb1_PreviewTextAngl" DataObject.Pasting="tb1_PastingAngl" x:Name="CardOwnerTB" BorderBrush="Black" BorderThickness="1" FontFamily="Arial"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="0 10 0 0" HorizontalAlignment="Right">
+                        <Label Content="Номер карты: " FontFamily="Arial" />
+                        <xctk:MaskedTextBox  Mask="0000 0000 0000 0000" PreviewTextInput="tb1_PreviewTextNum" DataObject.Pasting="tb1_PastingNum" x:Name="CardNumberTB" BorderBrush="Black" BorderThickness="1" MaxLength="16"  FontFamily="Arial" Width="{Binding Width, ElementName=SponsorNameTB}"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="-8 10 0 0" HorizontalAlignment="Left">
+                        <Label Content="Срок действия: " FontFamily="Arial"/>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBox x:Name="CardMonthTB" Width="30" MaxLength="2" PreviewTextInput="tb1_PreviewTextNum" DataObject.Pasting="tb1_PastingNum" BorderBrush="Black" BorderThickness="1" FontFamily="Arial"/>
+                            <TextBox x:Name="CardYearTB" Width="50" Margin="10 0 0 0" MaxLength="4" PreviewTextInput="tb1_PreviewTextNum" DataObject.Pasting="tb1_PastingNum" BorderBrush="Black" BorderThickness="1" FontFamily="Arial"/>
+                        </StackPanel>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal" Margin="29 10 0 0" HorizontalAlignment="Left">
+                        <Label Content="CVC/CVV: " FontFamily="Arial"/>
+                        <TextBox x:Name="CardCvcTB" Width="50" MaxLength="3" PreviewTextInput="tb1_PreviewTextNum" DataObject.Pasting="tb1_PastingNum" BorderBrush="Black" BorderThickness="1" FontFamily="Arial"/>
+                    </StackPanel>
+                </StackPanel>
+                <StackPanel Margin="20 0 0 0" HorizontalAlignment="Center" Width="350">
+                    <Label Content="Благотворительность" FontSize="18" HorizontalAlignment="Center" FontFamily="Arial"/>
+                    <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                        <Label x:Name="CharityNameLabel" Content="-" FontSize="16" FontFamily="Arial"/>
+                    </StackPanel>
+                    <Label Content="Сумма пожертвования" FontSize="18" HorizontalAlignment="Center" Margin="0 20 0 0" FontFamily="Arial"/>
+                    <Label x:Name="SumLabel" Content="$50" HorizontalAlignment="Center" FontSize="50" Padding="0" FontFamily="Arial"/>
+                    <StackPanel Orientation="Horizontal" Height="25" Margin="0 8 0 0" HorizontalAlignment="Center">
+                        <Button x:Name="MinusButton" Background="LightGray" Content="-" FontSize="18" Padding="0" Width="30" Height="25" FontWeight="Bold" BorderBrush="Black" BorderThickness="1" Click="MinusButton_Click" FontFamily="Arial"/>
+                        <TextBox x:Name="SumTB" Width="70" Margin="8 0" FontSize="14" Text="50" HorizontalContentAlignment="Center" TextChanged="SumTB_TextChanged" PreviewTextInput="NumberTB_PreviewTextInput" FontFamily="Arial"/>
+                        <Button x:Name="PlusButton" Content="+" FontSize="18" Padding="0" Width="30" Height="Auto" FontWeight="Bold" BorderBrush="Black" BorderThickness="1" Background="LightGray" Click="PlusButton_Click"/>
+                    </StackPanel>
+                    <StackPanel Orientation="Horizontal"
+HorizontalAlignment="Center" Margin="0 40 0 0">
+                        <Button Content="Заплатить" BorderBrush="Black" BorderThickness="1" Background="LightGray" Width="90" FontWeight="DemiBold" Click="PayButton_Click"/>
+                        <Button Content="Отмена" BorderBrush="Black" BorderThickness="1" Background="LightGray" Width="80" FontWeight="DemiBold" Margin="15 0 0 0" Click="CancelButton_Click"/>
+                    </StackPanel>
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Page>
