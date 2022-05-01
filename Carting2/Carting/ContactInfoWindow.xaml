@@ -1,0 +1,28 @@
+﻿<Window x:Class="Carting.ContactInfoWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Carting"
+        mc:Ignorable="d"
+         Title="Контакты" Height="220" Width="430" WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Top" Margin="90,40,84.667,0" Width="250">
+            <Label Content="Контакты" FontFamily="Arial" FontWeight="Light" Foreground="#000"  FontSize="18" HorizontalAlignment="Center" Margin="0 0 0 20"/>
+
+            <TextBlock Margin="20, 0,0,0" TextWrapping="Wrap" FontSize="14">
+
+				<Bold>
+					<Run Text="    Телефон: "/>
+				</Bold>
+				<Run Text="+7 999 999 99 99"/>
+				<LineBreak/>
+				
+				<Bold>
+					<Run Text="  Email: "/>
+				</Bold>
+				<Run Text="yugkyug@kartskills.org"/>
+            </TextBlock>
+        </StackPanel>
+    </Grid>
+</Window>
